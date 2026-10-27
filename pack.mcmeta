@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "Moonhold",
+        "color": "#F23C3C",
+        "bold": true
+      },
+      {
+        "text": "\nThe server pack",
+        "color": "#D9CDBE"
+      }
+    ],
+    "min_format": 75,
+    "max_format": 75
+  }
+}
